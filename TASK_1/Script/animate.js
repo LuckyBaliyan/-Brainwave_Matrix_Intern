@@ -162,11 +162,11 @@ document.addEventListener("DOMContentLoaded",()=>{
     const trailContainer = document.querySelector(".image-trail-container");
 
     let imageSources = [
-        "/TASK_1/assets/Images/2.jpg",
-        "/TASK_1/assets/Images/3.jpg",
-        "/TASK_1/assets/Images/4.jpg",
-        "/TASK_1/assets/Images/5.jpg",
-        "/TASK_1/assets/Images/1-min.jpeg",
+        "assets/Images/2.jpg",
+        "assets/Images/3.jpg",
+        "assets/Images/4.jpg",
+        "assets/Images/5.jpg",
+        "assets/Images/1-min.jpeg",
     ];
 
     let trailImages = [];
